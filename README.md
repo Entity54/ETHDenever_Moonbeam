@@ -1,6 +1,6 @@
 # MOONBEAM(PURESTAKE) ETHDenver Hackathon
 
-Our project shows how we can use the power of XCM, its different protocols and channels and the powerful representation of native Substrate tokens in Moonbeam, Moonriver and MoonbaseAlpha testnet chains
+Our project shows how we can use the power of XCM, its different protocols and channels and the powerful representation of native Substrate tokens in Moonbeam, Moonriver and MoonbaseAlpha testnet chain
 
 ## The Dapp is a GUI that allows four ways of transfers
 We have focused on Moonbasealpha testnet and its Relay Alphanet
@@ -17,7 +17,7 @@ d) The last action the user can do is trsnfer natively the UNIT takens from one 
 In the project directory, you can run:
 
 
-Moonbeam_ETHDenverHackathonBounty2.png
+![Moonbeam_ETHDenverHackathonBounty2](https://user-images.githubusercontent.com/42042104/159288813-71a1ef35-7767-4a61-ac37-a3f8ea5ad541.png)
 
 
 
